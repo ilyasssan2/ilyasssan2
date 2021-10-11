@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<h2>I'm Ilias boudeke.</h2>
+<h2>I'm Ilias boudeka.</h2>
 
 <h3> 💻 &nbsp;About Me </h3>
 
@@ -18,6 +18,7 @@
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
   ![Scss](https://img.shields.io/badge/-Sass-333333?style=flat&logo=sass)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+  ![React](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=nextjs)
   ![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=angular)
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   ![Graphql](https://img.shields.io/badge/-Graphql-333333?style=flat&logo=graphql)
