@@ -28,6 +28,7 @@
   ![Graphql](https://img.shields.io/badge/-Graphql-333333?style=flat&logo=graphql)
 - 🛢 &nbsp;
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+  ![My sql](https://img.shields.io/badge/-My%20sql-333333?style=flat&logo=mysql&logoColor=blue)
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
