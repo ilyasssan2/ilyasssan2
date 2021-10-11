@@ -18,7 +18,7 @@
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
   ![Scss](https://img.shields.io/badge/-Sass-333333?style=flat&logo=sass)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-  ![React](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=nextjs)
+  ![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=next.js)
   ![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=angular)
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   ![Graphql](https://img.shields.io/badge/-Graphql-333333?style=flat&logo=graphql)
@@ -34,8 +34,8 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/ilias-boudeka-526106193/"><img src="https://img.shields.io/badge/-Cameron%20Thompson-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:boudeka.ilias@gmail.com"><img src="https://img.shields.io/badge/-camthomp96@gamil.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/ilias-boudeka-526106193/"><img src="https://img.shields.io/badge/-Ilias%20Boudeka-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:boudeka.ilias@gmail.com"><img src="https://img.shields.io/badge/-boudeka.ilias@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
   
 Last Edited on: 11/10/2021
