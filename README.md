@@ -31,12 +31,12 @@
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
   ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
   ![Docker-compose](https://img.shields.io/badge/-Docker%20compose-333333?style=flat&logo=docker)
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC&style=flat-square)
 
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
-<p align="center">
+<p >
 <a href="https://www.linkedin.com/in/ilias-boudeka-526106193/"><img src="https://img.shields.io/badge/-Ilias%20Boudeka-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:boudeka.ilias@gmail.com"><img src="https://img.shields.io/badge/-boudeka.ilias@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
