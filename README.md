@@ -8,9 +8,8 @@
 - 🎓 &nbsp; Currently working as a software developer.
 
 
-<h3> 🛠 &nbsp;Tech Stack</h3>
+<h3> 🛠 &nbsp;Skills & Tech Stack</h3>
 
-- 🌐 &nbsp;
   ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
@@ -26,15 +25,12 @@
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   ![Golang](https://img.shields.io/badge/-Golang-333333?style=flat&logo=go)
   ![Graphql](https://img.shields.io/badge/-Graphql-333333?style=flat&logo=graphql)
-- 🛢 &nbsp;
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
   ![My sql](https://img.shields.io/badge/-My%20sql-333333?style=flat&logo=mysql&logoColor=blue)
-- ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
   ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
   ![Docker-compose](https://img.shields.io/badge/-Docker%20compose-333333?style=flat&logo=docker)
-- 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
 
