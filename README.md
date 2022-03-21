@@ -34,6 +34,16 @@
   ![Vs Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=fff)
 
 
+### ⚙️ &nbsp;GitHub Analytics
+
+<p>
+<a href="https://github.com/ilyasssan2">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ilyasssan2&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ilyasssan2&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
+
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p >
