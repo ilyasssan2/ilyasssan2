@@ -6,7 +6,7 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions to our worlds tech problems.
 - 🎓 &nbsp; Currently working as a software developer.
-- 🌱 &nbsp; Currently learning  Rabbitmq, Kubernetes and AWS 
+- 🌱 &nbsp; Currently learning  Rabbitmq, Kubernetes, AWS and Neo4j.
 
 <h3> 🛠 &nbsp;Skills & Tech Stack</h3>
 
