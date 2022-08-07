@@ -6,7 +6,8 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions to our worlds tech problems.
 - 🎓 &nbsp; Currently working as a software developer.
-- 🌱 &nbsp; Currently learning  Rabbitmq, Kubernetes, AWS and Neo4j.
+- 🌱 &nbsp; Currently learning  Rust and Neo4j.
+- 😍 &nbsp; Fun fact i fell in love with Rust.
 
 <h3> 🛠 &nbsp;Skills & Tech Stack</h3>
 
@@ -32,7 +33,8 @@
   ![Docker](https://img.shields.io/badge/-Docker-007ACC?style=flat-square&logo=docker&logoColor=fff)
   ![Docker-compose](https://img.shields.io/badge/-Docker%20compose-007ACC?style=flat-square&logo=docker&logoColor=fff)
   ![Vs Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=fff)
-
+  ![Kubernetes](https://img.shields.io/badge/-kubernetes-007ACC?style=flat-square&logo=kubernetes&logoColor=fff)
+  ![AWS](https://img.shields.io/badge/-AWS-E68E00?style=flat-square&logo=amazon&logoColor=fff)
 
 ### ⚙️ &nbsp;GitHub Analytics
 
