@@ -8,6 +8,7 @@
 - 🎓 &nbsp; Currently working as a software developer.
 - 🌱 &nbsp; Currently learning  Rust and Neo4j.
 - 😍 &nbsp; Fun fact i fell in love with Rust.
+- 🏯 &nbsp; Fun fact 2 i have interesse in japanese culture/language.
 
 <h3> 🛠 &nbsp;Skills & Tech Stack</h3>
 
