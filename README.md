@@ -9,6 +9,8 @@
 - 🌱 &nbsp; Currently learning  Rust and Neo4j.
 - 😍 &nbsp; Fun fact i fell in love with Rust.
 - 🏯 &nbsp; Fun fact 2 i have interesse in japanese culture/language.
+- 📰 &nbsp; News my website is coming soon.
+
 
 <h3> 🛠 &nbsp;Skills & Tech Stack</h3>
 
@@ -54,4 +56,4 @@
 <a href="mailto:boudeka.ilias@gmail.com"><img src="https://img.shields.io/badge/-boudeka.ilias@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
   
-Last Edited on: 09/08/2022
+Last Edited on: 15/08/2022
