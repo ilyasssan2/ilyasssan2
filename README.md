@@ -1,19 +1,24 @@
-<img src="https://www.travelcaffeine.com/wp-content/uploads/2017/04/osaka-castle-japan-1014.jpg" width="100%"  heigth="100%" />
-### Hi there 👋
+<img src="https://images.wallpapersden.com/image/download/japanese-castle-pixel-art_bGZnbmWUmZqaraWkpJRnamtlrWZlbWU.jpg" height="auto" width="100%" />
 
-<h2>I'm Ilyass.</h2>
+<h2>👋 Hi there</h2>
+<p> <strong>My name is Ilias I'm 21 years old a software developer with some UI/UX knowledge</strong></h2>
 
 <h3> 💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions to our worlds tech problems.
-- 🎓 &nbsp; Currently working as a software developer.
-- 🌱 &nbsp; Currently learning  Rust and Neo4j.
-- 😍 &nbsp; Fun fact i fell in love with Rust.
-- 🏯 &nbsp; Fun fact 2 i have interesse in japanese culture/language.
-- 📰 &nbsp; News my website is coming soon.
+🤔 &nbsp; Exploring new technologies and developing software solutions to our worlds tech problems.
+</br>
+🎓 &nbsp; Currently working as a software developer.
+</br>
+🌱 &nbsp; Currently learning  Rust and Neo4j.
+</br>
+😍 &nbsp; Fun fact i fell in love with Rust.
+</br>
+🏯 &nbsp; Fun fact 2 i have interesse in japanese culture/language.
+</br>
+📰 &nbsp; News my website is coming soon.
 
 
-<h3> 🛠 &nbsp;Skills & Tech Stack</h3>
+<h3>🛠 &nbsp;Skills & Tech Stack</h3>
 
   ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=fff)
   ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=CSS3&logoColor=fff)
@@ -44,17 +49,17 @@
 
 <p>
 <a href="https://github.com/ilyasssan2">
-  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ilyasssan2&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ilyasssan2&layout=compact&langs_count=8&theme=algolia&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ilyasssan2&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ilyasssan2&layout=compact&langs_count=8&theme=tokyonight&count_private=true"/>
 </a>
 </p>
 
 
-<h3> 🤝🏻 &nbsp;Connect with Me </h3>
+<h3>🤝🏻 &nbsp;Connect with Me </h3>
 
 <p >
-<a href="https://www.linkedin.com/in/ilias-boudeka-526106193/"><img src="https://img.shields.io/badge/-Ilias%20Boudeka-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:boudeka.ilias@gmail.com"><img src="https://img.shields.io/badge/-boudeka.ilias@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/LINKEDIN-526106193/"><img src="https://img.shields.io/badge/-Ilias%20Boudeka-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:boudeka.ilias@gmail.com"><img src="https://img.shields.io/badge/-MAIL-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
   
 Last Edited on: 15/08/2022
