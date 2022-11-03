@@ -9,7 +9,7 @@
 </br>
 🎓 &nbsp; Currently working as a software developer.
 </br>
-🌱 &nbsp; Currently learning  Rust and Neo4j.
+🌱 &nbsp; Currently learning Rust.
 </br>
 😍 &nbsp; Fun fact i fell in love with Rust.
 </br>
@@ -44,7 +44,7 @@
   ![Vs Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=fff)
   ![Kubernetes](https://img.shields.io/badge/-kubernetes-007ACC?style=for-the-badge&logo=kubernetes&logoColor=fff)
   ![AWS](https://img.shields.io/badge/-AWS-E68E00?style=for-the-badge&logo=amazon&logoColor=fff)
-
+  ![NEO4J](https://img.shields.io/badge/-NEO4J-0184F2?style=for-the-badge&logo=NEO4J&logoColor=fff)
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p>
