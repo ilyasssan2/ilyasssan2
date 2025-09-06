@@ -1,23 +1,5 @@
 <img src="https://images.wallpapersden.com/image/download/japanese-castle-pixel-art_bGZnbmWUmZqaraWkpJRnamtlrWZlbWU.jpg" height="auto" width="100%" />
 
-<h2>👋 Hi there</h2>
-<p> <strong>My name is Ilias I'm 22 years old a software developer with some UI/UX knowledge</strong></h2>
-
-<h3>💻 &nbsp;About Me </h3>
-
-🤔 &nbsp; Exploring new technologies and developing software solutions to our worlds tech problems.
-</br>
-🎓 &nbsp; Currently working as a software developer.
-</br>
-🌱 &nbsp; Currently learning Rust.
-</br>
-😍 &nbsp; Fun fact i fell in love with Rust.
-</br>
-🏯 &nbsp; Fun fact 2 i have interesse in japanese culture/language.
-</br>
-📰 &nbsp; News my website is coming soon.
-
-
 <h3>🛠 &nbsp;Skills & Tech Stack</h3>
 
   ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=fff)
